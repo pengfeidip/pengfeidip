@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+- 🔭 I’m currently working on Deep learning about industrial visualization
+- 📫 How to reach me: email pengfeidip@qq.com
+- I graduated from Dalian Maritime University, and major in Electronics and Communication Engineering (both Bachelor and Master)
+
+### 大家好
+- 我目前主要的从事方向是深度学习、计算机视觉在工业领域的应用
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pengfeidip&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--
 **pengfeidip/pengfeidip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
